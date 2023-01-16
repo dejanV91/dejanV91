@@ -27,6 +27,5 @@
 
 ---
 
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dejanv91&show_icons=true&locale=en&layout=compact" alt="dejanv91" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dejanv91&" alt="dejanv91" /></p>
