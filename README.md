@@ -3,7 +3,7 @@
 
 <br><br>
 
-- 🌱 I’m currently learning **Material UI**
+- 🌱 I’m currently learning **React js**
 
 - 📫 How to reach me **dejanvukoicic91@gmail.com**
 
