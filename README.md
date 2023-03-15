@@ -3,7 +3,7 @@
 
 <br><br>
 
-- 🌱 I’m currently learning **React js**
+- 🌱 I’m currently learning **Angular**
 
 - 📫 How to reach me **dejanvukoicic91@gmail.com**
 
